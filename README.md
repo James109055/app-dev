@@ -19,4 +19,4 @@
 
   [You can play great songs here!](https://open.spotify.com/)
   
-  ![Wesite Image](![image](https://github.com/James109055/app-dev/assets/151918732/e542c1a9-bbc5-4489-b392-4622e2b95dda))
+  ![Wesite Image](![Screenshot 2023-11-24 210242](https://github.com/James109055/app-dev/assets/151918732/914f5549-dc37-4b91-9a72-ed25aeffd549))
