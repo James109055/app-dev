@@ -1,14 +1,14 @@
-# app-dev
+# *My top 3 playlist*
 ## My first repository
-### *My top 3 playlist*
+### app-dev
 
 **Based on the songs I always listen to.**
-
-> Comment your favorite song or suggest any song.
 
 - 7-11
 - Lovely 
 - Raining in Manila
+
+> Comment your favorite song or suggest any song.
 
   'C#'
   ---
